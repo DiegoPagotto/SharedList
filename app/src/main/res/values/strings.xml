@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SharedList</string>
+    <string name="tasks">Tasks</string>
+    <string name="task_completed">Tarefa adicionada com sucesso!</string>
+    <string name="task_inserted">Tarefa inserida com sucesso!</string>
+    <string name="task_already_finished">Não é possível alterar/excluir uma tarefa já concluída!</string>
+    <string name="task_removed">Tarefa removida com sucesso!</string>
+    <string name="task_concluded">Tarefa concluída!</string>
+    <string name="welcome_back">"Bem vindo de volta, "</string>
+    <string name="no_user_connected">Nenhum usuário conectado!</string>
+    <string name="task_already_exists">Já existe uma tarefa com esse título!</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="enter">Entrar</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+    <string name="signup">Cadastrar</string>
+    <string name="title">Título:</string>
+    <string name="description">Descrição:</string>
+    <string name="expected_finish_date">Data de término prevista:</string>
+    <string name="creation_date">Data de criação:</string>
+    <string name="created_by">Criado por:</string>
+    <string name="finished_by">Finalizado por:</string>
+    <string name="save">Salvar</string>
+</resources>
